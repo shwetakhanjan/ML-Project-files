@@ -22,6 +22,19 @@
     Filename  :  all_stocks_5yr.csv
 
     Since the file size is greater than 25 MB, it could not be uploaded to GitHub. It can be downloaded from the Google drive link provided above. 
+## Tech Stack 
+   DATA EXPLORATION:
+   
+   pandas, matplotlib, matplotlib.pyplot,  matplotlib inline, numpy, seaborn in Python
+   
+   MACHINE LEARNING TECHNIQUES:
+
+   sklearn library in Python
+   KMeans from sklearn.cluster 
+   LinearRegression from sklearn.linear_model 
+
+ 
+
 
 
 
